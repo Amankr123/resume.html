@@ -7,7 +7,7 @@
 <center>
 <h1>RESUME</h1>
 <h2 align="left">NAME-AMAN KUMAR SINGH </h2>
-<h1 align="left">EMAIL-amanksingh696@gmail.com  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ph. no- 6200580832</h1>
+<h1 align="left">EMAIL-amanksingh696@gmail.com  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ph. no- 6200580832</h1>
 <h1 align="left">OBJECTIVE</h1>
 <h2 align="left">* I want to be a software engineer.</h2>
 
